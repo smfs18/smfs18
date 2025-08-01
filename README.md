@@ -7,9 +7,7 @@
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=smfs18&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-<p> 
-- 🔭 I’m currently working on at Nutrane Animal Nutrition 
-</p><p>
+<p>
   - 🌱 I’m currently learning Web development, front end, back end, artificial intelligence, database, prototyping and computer networks
 </p><p>
   - 👯 I’m looking to collaborate on projects to improve my skills
