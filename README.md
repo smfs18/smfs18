@@ -7,15 +7,15 @@
 </div>
 
 <p>
-  - 🌱 I’m currently learning Web development, front end, back end, artificial intelligence, database, prototyping and computer networks
+  -  I’m currently learning Web development, front end, back end, artificial intelligence, database, prototyping and computer networks
 </p><p>
-  - 👯 I’m looking to collaborate on projects to improve my skills
+  -  I’m looking to collaborate on projects to improve my skills
 </p><p>
-  - 🤔 I’m looking for help with cin teachers, more advanced colleagues, academic books and materials
+  -  I’m looking for help with cin teachers, more advanced colleagues, academic books and materials
 </p><p>
-  - 💬 Ask me about projects and everything involving technology that we will have a long talk about
+  -  Ask me about projects and everything involving technology that we will have a long talk about
 </p><p>
-  - ⚡ Fun fact: I am extremely disciplined in everything I do and obsessed with always improving
+  -  Fun fact: I am extremely disciplined in everything I do and obsessed with always improving
 </p>
 
 
