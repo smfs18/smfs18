@@ -1,5 +1,4 @@
-# 👋 Hello! Welcome to my Github profile.
-## My name is Silas Manoel and my nickname is "smfs"!
+# Hello, my name is Silas Manoel!
 
 <div>
 <a href="https://github.com/smfs18">
